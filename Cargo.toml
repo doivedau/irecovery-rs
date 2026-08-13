@@ -1,0 +1,12 @@
+[package]
+name = "irecovery"
+version = "0.1.0"
+edition = "2021"
+description = "Identify Apple devices in DFU/Recovery mode: parse the iBoot USB serial string and look up devices by CPID/BDID. A native Rust port of libirecovery's identification layer, zero dependencies."
+license = "LGPL-2.1-only"
+repository = "https://github.com/doivedau/irecovery-rs"
+readme = "README.md"
+keywords = ["ios", "dfu", "recovery", "apple", "usb"]
+categories = ["hardware-support", "parser-implementations"]
+
+[dependencies]
