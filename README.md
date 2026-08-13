@@ -93,3 +93,13 @@ consistently with this one.
 — see [LICENSE](LICENSE). This crate's device database is copied
 near-verbatim from libirecovery; see [NOTICE.md](NOTICE.md) for full
 attribution and what was and wasn't ported.
+
+## Credits
+
+- [**libirecovery**](https://github.com/libimobiledevice/libirecovery) —
+  this crate ports its device identification layer; see
+  [NOTICE.md](NOTICE.md) for full attribution to its original authors.
+- **Author:** [@doivedau](https://github.com/doivedau)
+- **Built with:** [Claude Code](https://claude.com/claude-code) — part of
+  this repo (docs, examples, Rust-ification) is certified AI slop 🙃, but
+  it's tested and reviewed by a human before shipping.
